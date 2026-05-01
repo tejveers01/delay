@@ -1,0 +1,15 @@
+venv
+venv/
+__pycache__
+.env
+.env/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+openapi.yaml
+project-cache.pkl
